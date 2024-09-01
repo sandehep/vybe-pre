@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+nav{
+    background-color: #1a1717;
+    color: #09aba0;
+    padding: 10px;
+    width: 100%;
+    
+}
+ul,li,img,h1{
+    display: inline;
+}
+ul{
+    margin-left: 10%;
+    padding-bottom: 5px;
+}
+h1{
+    color: #09aba0;
+    margin-left: 35%;
+}
+img{
+    padding-top: 10px;
+}
+#three{
+    padding: 20px;
+}
